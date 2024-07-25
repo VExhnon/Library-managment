@@ -1,0 +1,23 @@
+[
+    {
+        "id": "9d6978d4-c3e4-460b-954f-4c79a127e759",
+        "title": "The Twelve Chairs",
+        "author": "\tIlf and Petrov",
+        "year": "1928",
+        "status": "available"
+    },
+    {
+        "id": "9ea61c73-ca6c-474c-a91f-37ffb21d6487",
+        "title": "War and Peace ",
+        "author": "Leo Tolstoy",
+        "year": "1820",
+        "status": "available"
+    },
+    {
+        "id": "bee8ea6e-dbc3-4ad0-9d3e-e196124a6ef5",
+        "title": "The Master and Margarita",
+        "author": "\tMikhail Bulgakov",
+        "year": "1967",
+        "status": "available"
+    }
+]
